@@ -1,0 +1,12 @@
+
+h1 {
+    color:red;
+    font-family: 'Open Sans', sans-serif;
+    margin: 25px;
+    font-size: 6em;
+}
+
+p {
+    color: blue;
+    font-family: 'PT Serif' serif;
+}
